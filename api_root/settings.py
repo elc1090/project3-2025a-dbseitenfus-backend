@@ -138,7 +138,6 @@ CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "https://project3-2025a-dbseitenfus-frontend.vercel.app"
-    "http://localhost:3000",
 ]
 
 REST_FRAMEWORK = {
